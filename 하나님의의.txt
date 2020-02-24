@@ -12,6 +12,11 @@ ESV Rom. 1:17  For in it the righteousness of God is revealed from faith for fai
 
 KJV Rom. 1:17  For <1063> therein <1722> <846> is <601> <0> the righteousness <1343> of God <2316> revealed <601> (5743) from <1537> faith <4102> to <1519> faith <4102>: as <2531> it is written <1125> (5769), <1161> The just <1342> shall live <2198> (5695) by <1537> faith <4102>.
 
+>> The just (의인)은 믿음으로 살아야 한다(shall)
+	( 의인이란 믿음으로 살아야 의인이라 할 수 있다. 의무, 의지 )
+	( 믿음의 종류도 여러가지가 있다. 로마서 이 문맥에서 사용된 믿음은 어떤 믿음인가? 여기서 말한 믿음은 어떤 믿음인가? )
+	( 믿음을 통해서 의를 얻는다. 어떤 믿음? "하나님의 의", 이것은 또 다시 하나님의 의를 믿고 지탱해 나가는 기초가 된다. )
+
 KRV Rom. 1:17  복음에는 하나님의 의가 나타나서 믿음으로 믿음에 이르게 하나니 기록된바 오직 의인은 믿음으로 말미암아 살리라 함과 같으니라
 
 ESV Rom. 3:5  But if our unrighteousness serves to show the righteousness of God, what shall we say? That God is unrighteous to inflict wrath on us? (I speak in a human way.)
@@ -19,6 +24,11 @@ ESV Rom. 3:5  But if our unrighteousness serves to show the righteousness of God
 KJV Rom. 3:5  But <1161> if <1487> our <2257> unrighteousness <93> commend <4921> (5719) the righteousness <1343> of God <2316>, what <5101> shall we say <2046> (5692)? <3361> Is God <2316> unrighteous <94> who taketh <2018> (5723) vengeance <3709>? (I speak <3004> (5719) as <2596> a man <444>)
 
 KRV Rom. 3:5  그러나 우리 불의가 하나님의 의를 드러나게 하면 무슨 말하리요 내가 사람의 말하는대로 말하노니 진노를 내리시는 하나님이 불의하시냐
+
+>> 인간의 불의는 하나님의 의를 드러나게 한다. 
+>> 하나님의 진노가 원인은 인간의 불의다.
+   ( 하나님의 사랑의 원인은 인간의 의일까? 아니면 하나님의 의일까? )
+   ( 하나님의 의라면 )
 
 ESV Rom. 3:21  But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it--
 
@@ -38,6 +48,12 @@ KRV Rom. 3:22  곧 예수 그리스도를 믿음으로 말미암아 모든 믿�
 ( 인간의 의는 차이가 생기게 마련이므로 차별하게 되어 있다. )
 ( 하나님의 의는 인간에게 속한 것이 아니므로 차별이 없다. )
 
+>> 하나님의 의는 소유격인가? 아니면 속성인가?  
+( 하나님이 만드셨고, 하나님이 안에 있고, 하나님의 권리이다. )
+( 그 하나님의 의를 인간에게 주셨다. 이것은 선물이다. 은혜이다. 어떤 조건 없이 차별없이 주셨다. 그런데 조건을 들고 나오는 것은 하나님의 의에 위배되기 때문에 제외된다. 조건을 인간이 만드는 것은 순수하지 않다. 조건도 하나님이 우리에게 주시는 것이 순수한 것이다. 하나님의 조건을 따르는 것이 인간의 따라야 할 조건이 된다. 순종이다. 하나님이 주신 의와 하나님이 주신 조건을 받아 하나님의 의만 취하고 하나님이 주신 조건을 쓰지않고 자신이 자체적으로 만든 조건(의)를 쓴다면 그것은 부작용(Side-Effect)이 나올 법하다. 
+부작용의 가장 큰 것은 차별한다는 것이다.  인간은 자연상태로 가만히 놔두면 차별한다. 어떤 방식으로든 그렇게 한다. 그것은 의지적으로 쓰지 말아야 한다. 의인은 하나님의 의로 말미암아 살아야 한다.(Shall)
+
+ )
 
 
 ESV Rom. 3:25  whom God put forward as a propitiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins.
